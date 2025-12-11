@@ -1,0 +1,9 @@
+Manufacturer=Phoenix Contact
+PartNumber=1984824
+PartCategory=Connector
+PackageCategory=Other
+PinCount=8
+Version=3.2
+Released=2022-01-13 06:44:31
+Downloaded=2025-11-19 21:21:34
+3D=Y

@@ -1,0 +1,169 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "1984824"
+   (description "PCB terminal block, nominal current: 17.5 A, rated voltage (III/2): 200 V, nominal cross section: 1.5 mm?, Number of potentials: 8, Number of rows: 1, Number of positions per row: 8, product range: PT 1,5/..-V, pitch: 3.5 mm, connection method: Screw connection with wire protector, mounting: Wave soldering, conductor/PCB connection direction: 90 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 4.5 mm, type of packaging: packed in cardboard")
+   (family "CON")
+   (package "1984824")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/1/1984824.pdf")
+   (attribute "Geometry.Height" "7.7mm")
+   (attribute "Mouser Part Number" "651-1984824")
+   (attribute "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=651-1984824")
+   (attribute "Manufacturer_Name" "Phoenix Contact")
+   (attribute "Manufacturer_Part_Number" "1984824")
+   (gate
+    (symbol "1984824")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "5" 5 PS)
+    (pin "6" 6 PS)
+    (pin "7" 7 PS)
+    (pin "8" 8 PS)
+   )
+  )
+  (symbol "1984824"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -800) (pt 200 -800) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -700) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "1984824"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.75 -5)
+      (pt 26.25 -5)
+      (pt 26.25 4.15)
+      (pt -1.75 4.15)
+      (pt -1.75 -5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.75 -5)
+      (pt 26.19 -5)
+      (pt 26.19 4.15)
+      (pt -1.75 4.15)
+      (pt -1.75 -5))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.75 5.15)
+      (pt 27.25 5.15)
+      (pt 27.25 -6)
+      (pt -2.75 -6)
+      (pt -2.75 5.15))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -2.2 0)
+      (arc (pt -2.200 0.000) (pt -2.200 -0.050) (pt -2.100 0.050) (start 180.0) (sweep -180.0))
+      (pt -2.1 0)
+      (arc (pt -2.100 0.000) (pt -2.200 -0.050) (pt -2.100 0.050) (start 180.0) (sweep .0))
+      (pt -2.2 0)
+      (pt -2.1 0))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.75 -5)
+      (pt -2.32 -5)
+      (pt -2.32 -2)
+      (pt -1.75 -2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.75 -5)
+      (pt -2.32 -5)
+      (pt -2.32 -2)
+      (pt -1.75 -2))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt 3.500 0.000) (padstack 0))
+   (leg 3 (pt 7.000 0.000) (padstack 0))
+   (leg 4 (pt 10.500 0.000) (padstack 0))
+   (leg 5 (pt 14.000 0.000) (padstack 0))
+   (leg 6 (pt 17.500 0.000) (padstack 0))
+   (leg 7 (pt 21.000 0.000) (padstack 0))
+   (leg 8 (pt 24.500 0.000) (padstack 0))
+   (padstack 0
+    (hole 1.2)
+    (plated true)
+    (pad (layer TCOP) (round 1.800))
+    (pad (layer INNER) (round 1.800))
+    (pad (layer BCOP) (round 1.800))
+   )
+   (padstack 1
+    (hole 1.2)
+    (plated true)
+    (pad (layer TCOP) (square 1.800))
+    (pad (layer INNER) (round 1.800))
+    (pad (layer BCOP) (square 1.800))
+   )
+   (model "1984824.stp"
+    (euler 180 0 180)
+    (offset 26.25 -4.96999979019165 -2.200000047683716)
+   )
+  )
+ )
+)

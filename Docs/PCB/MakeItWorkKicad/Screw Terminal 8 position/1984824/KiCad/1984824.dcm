@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1984824
+D PCB terminal block, nominal current: 17.5 A, rated voltage (III/2): 200 V, nominal cross section: 1.5 mm?, Number of potentials: 8, Number of rows: 1, Number of positions per row: 8, product range: PT 1,5/..-V, pitch: 3.5 mm, connection method: Screw connection with wire protector, mounting: Wave soldering, conductor/PCB connection direction: 90 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 4.5 mm, type of packaging: packed in cardboard
+K
+F https://componentsearchengine.com/Datasheets/1/1984824.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,16 @@
+.1991341 :1 ;PCB terminal block, nominal current: 24 A, rated voltage (III/2): 400 V, nominal cross section: 2.5 mm?, Number of potentials: 10, Number of rows: 1, Number of positions per row: 10, product range: MKDSN 2,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard. The article can be aligned to create different nos. of po
+"1991341"
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9" 10="10"
+*MXP 10
+*DFN 1991341
+~!Mouser Part Number (651-1991341)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1991341?qs=MfVUZiz0PxYqEbuQrw2QtQ%3D%3D)
+~!Manufacturer_Name (Phoenix Contact)
+~!Manufacturer_Part_Number (1991341)
+~!Link Datasheet (http://www.phoenixcontact.com/de/produkte/1991341/pdf)
+~!Height (15.15mm)
+~!3D_Model (1991341)
+"1991341"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 

@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 1991341
+#/453681/1654832/2.50/10/2/Connector
+DEF 1991341 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "1991341" 650 200 50 H V L CNN
+F2 "1991341" 650 100 50 H I L CNN
+F3 "http://www.phoenixcontact.com/de/produkte/1991341/pdf" 650 0 50 H I L CNN
+F4 "PCB terminal block, nominal current: 24 A, rated voltage (III/2): 400 V, nominal cross section: 2.5 mm?, Number of potentials: 10, Number of rows: 1, Number of positions per row: 10, product range: MKDSN 2,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard. The article can be aligned to create different nos. of po" 650 -100 50 H I L CNN "Description"
+F5 "15.15" 650 -200 50 H I L CNN "Height"
+F6 "651-1991341" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1991341?qs=MfVUZiz0PxYqEbuQrw2QtQ%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Phoenix Contact" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "1991341" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 0 -300 200 R 50 50 0 0 P
+X 5 5 0 -400 200 R 50 50 0 0 P
+X 6 6 0 -500 200 R 50 50 0 0 P
+X 7 7 0 -600 200 R 50 50 0 0 P
+X 8 8 0 -700 200 R 50 50 0 0 P
+X 9 9 0 -800 200 R 50 50 0 0 P
+X 10 10 0 -900 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -1000 200 -1000 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

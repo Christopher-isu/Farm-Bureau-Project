@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=PIC16F883T-I/SS
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=28
+Version=1.1
+Released=2018-11-07 04:39:30
+Downloaded=2025-11-20 23:49:40
+3D=Y

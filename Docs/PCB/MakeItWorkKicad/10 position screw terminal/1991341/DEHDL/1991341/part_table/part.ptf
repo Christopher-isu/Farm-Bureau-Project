@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '1991341'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Phoenix Contact", "1991341" (!) = "", "1991341", "Other", "651-1991341", "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1991341?qs=MfVUZiz0PxYqEbuQrw2QtQ%3D%3D", "PCB terminal block, nominal current: 24 A, rated voltage (III/2): 400 V, nominal cross section: 2.5 mm?, Number of potentials: 10, Number of rows: 1, Number of positions per row: 10, product range: MKDSN 2,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard. The article can be aligned to create different nos. of po", "http://www.phoenixcontact.com/de/produkte/1991341/pdf", "15.15 mm"
+END_PART
+
+END.

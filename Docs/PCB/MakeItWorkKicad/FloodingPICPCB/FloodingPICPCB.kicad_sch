@@ -1,0 +1,232 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "a29253d5-3031-4f43-a0bf-89c702fd3c62")
+	(paper "A4")
+	(title_block
+		(title "Controller for Flooding Diorama")
+		(date "2025-11-21")
+		(rev "Revision 1")
+		(company "Idaho State University College of Technology")
+		(comment 1 "RCET Program")
+		(comment 2 "Drawn By: Jacob Horsley")
+	)
+	(lib_symbols)
+	(sheet
+		(at 160.02 59.69)
+		(size 44.45 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "073d8b06-777b-498e-aca0-e4833ceef0ce")
+		(property "Sheetname" "IO Ports"
+			(at 160.02 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IO Ports-G16.kicad_sch"
+			(at 160.02 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FloodingPICPCB"
+				(path "/a29253d5-3031-4f43-a0bf-89c702fd3c62"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 44.45 59.69)
+		(size 48.26 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2bd8386d-811f-4f77-a6f6-3fb9106f110e")
+		(property "Sheetname" "Communications"
+			(at 44.45 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Communications-G16.kicad_sch"
+			(at 44.45 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FloodingPICPCB"
+				(path "/a29253d5-3031-4f43-a0bf-89c702fd3c62"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 102.87 59.69)
+		(size 44.45 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2dc4607f-0b53-4b15-ba37-c32f61271353")
+		(property "Sheetname" "Power"
+			(at 102.87 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power-G16.kicad_sch"
+			(at 102.87 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FloodingPICPCB"
+				(path "/a29253d5-3031-4f43-a0bf-89c702fd3c62"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 44.45 97.79)
+		(size 49.53 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9de66430-c0df-43ad-88eb-c0ad159b6a22")
+		(property "Sheetname" "Microcontroller"
+			(at 44.45 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Microcontroller-G16.kicad_sch"
+			(at 44.45 130.1246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FloodingPICPCB"
+				(path "/a29253d5-3031-4f43-a0bf-89c702fd3c62"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 102.87 97.79)
+		(size 48.26 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "dddb7d9f-0393-422d-a8f4-054b36ce4b66")
+		(property "Sheetname" "FET_DRIVE"
+			(at 102.87 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FETDRIVERS.kicad_sch"
+			(at 102.87 130.1246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FloodingPICPCB"
+				(path "/a29253d5-3031-4f43-a0bf-89c702fd3c62"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

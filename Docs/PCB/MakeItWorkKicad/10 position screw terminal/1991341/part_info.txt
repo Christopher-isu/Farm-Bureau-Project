@@ -1,0 +1,9 @@
+Manufacturer=Phoenix Contact
+PartNumber=1991341
+PartCategory=Connector
+PackageCategory=Other
+PinCount=10
+Version=2.1
+Released=2021-12-31 14:20:43
+Downloaded=2025-11-19 21:36:39
+3D=Y

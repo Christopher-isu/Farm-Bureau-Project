@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PIC16F883T_I_SS'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "PIC16F883T-I/SS" (!) = "", "SOP65P780X200-28N", "Small Outline Packages", "579-PIC16F883T-I/SS", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/PIC16F883T-I-SS?qs=tfKlksTaHW%252BAqvg4XmWtpA%3D%3D", "MICROCHIP - PIC16F883T-I/SS - MCU, 8BIT, PIC16, 20MHZ, SSOP-28", "https://componentsearchengine.com/Datasheets/1/PIC16F883T-I_SS.pdf", "2 mm"
+END_PART
+
+END.

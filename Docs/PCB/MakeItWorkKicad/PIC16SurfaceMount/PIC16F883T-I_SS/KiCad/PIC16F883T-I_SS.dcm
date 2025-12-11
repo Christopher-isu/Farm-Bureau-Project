@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIC16F883T-I_SS
+D MICROCHIP - PIC16F883T-I/SS - MCU, 8BIT, PIC16, 20MHZ, SSOP-28
+K
+F https://componentsearchengine.com/Datasheets/1/PIC16F883T-I_SS.pdf
+$ENDCMP
+#
+#End Doc Library
